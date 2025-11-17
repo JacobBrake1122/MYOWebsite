@@ -1,7 +1,20 @@
 .my-font {
     font-family: 'Lucida Console', monospace;
-    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border: black;
+    color:rgb(255, 13, 94);
 }
+.my-font2 {
+    font-family: 'Lucida Console', monospace;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border: black;
+    color:rgb(255, 13, 94);
+}
+
 .my-align {
     position: relative;
     top: 0px;
